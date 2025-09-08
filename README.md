@@ -19,7 +19,9 @@
 . ¡Haré lo posible por responder lo antes posible!.\
 📄 &nbsp; Estoy abierto a sugerencias y comentarios que me ayuden a seguir mejorando.\
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<p align="center">
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
+</p>
 
 ### 🛠 &nbsp;Tech Stack
 
