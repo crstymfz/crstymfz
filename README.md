@@ -64,13 +64,15 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=crstymfz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/crstymfz">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=crstymfz&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=crstymfz&layout=compact&langs_count=8&theme=algolia&cache_seconds=1800"/>
   </a>
 </p>
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=crstymfz&theme=dark&hide_border=true"/>
 </p>
+
+
 
 
 
