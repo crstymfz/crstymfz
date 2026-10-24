@@ -15,7 +15,7 @@
 💬 &nbsp; Estoy abierto a participar en proyectos de voluntariado o simplemente compartir una conversación interesante sobre tecnología.\
 ✉️ &nbsp; Puedes escribirme a crstyfloresz@gmail.com.\
 . ¡Haré lo posible por responder lo antes posible!.\
-📄 &nbsp; Estoy abierto a sugerencias y comentarios que me ayuden a seguir mejorando.\
+📄 &nbsp; Estoy abierto a sugerencias y comentarios que me ayuden a seguir mejorando.
 
 <p align="center">
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
