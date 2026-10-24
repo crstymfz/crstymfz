@@ -1,6 +1,5 @@
-
 <p align="center">
-<img alt="Coding" src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnI1emxwZzlyNXJuYjFmMDY0dGN3cTE4a3NhbHE4NTFha204OGltZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif width='400' align="center"/> 
+<img alt="Coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnI1emxwZzlyNXJuYjFmMDY0dGN3cTE4a3NhbHE4NTFha204OGltZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" align="center"/> 
 </p>
 <hr>
 <h1 align="center">Hey there! I'm Cristy Flores</h1>
@@ -8,14 +7,13 @@
 
 <h1 align="center">👨🏻‍💻 <b>About Me</b></h1>
 
-
 👨‍💻 &nbsp; Actualmente me encuentro en formación académica, enfocado en fortalecer mis habilidades como desarrollador.\
-💡  &nbsp;Me apasiona explorar nuevas tecnologías y crear soluciones prácticas, además de pequeños hacks rápidos que optimicen procesos.\
-🎓  &nbsp; Soy estudiante de Ingeniería en Sistemas en la UCN.\
-🌱  &nbsp; Estoy profundizando en temas como Web3, implementación de software y validación de sistemas.\
-✍️  &nbsp; En mi tiempo libre disfruto del diseño y la escritura de blogs, los cuales desarrollo como proyectos paralelos.\
-💬  &nbsp; Estoy abierto a participar en proyectos de voluntariado o simplemente compartir una conversación interesante sobre tecnología.\
-✉️  &nbsp; Puedes escribirme a crstyfloresz@gmail.com.\
+💡 &nbsp; Me apasiona explorar nuevas tecnologías y crear soluciones prácticas, además de pequeños hacks rápidos que optimicen procesos.\
+🎓 &nbsp; Soy estudiante de Ingeniería en Sistemas en la UCN.\
+🌱 &nbsp; Estoy profundizando en temas como Web3, implementación de software y validación de sistemas.\
+✍️ &nbsp; En mi tiempo libre disfruto del diseño y la escritura de blogs, los cuales desarrollo como proyectos paralelos.\
+💬 &nbsp; Estoy abierto a participar en proyectos de voluntariado o simplemente compartir una conversación interesante sobre tecnología.\
+✉️ &nbsp; Puedes escribirme a crstyfloresz@gmail.com.\
 . ¡Haré lo posible por responder lo antes posible!.\
 📄 &nbsp; Estoy abierto a sugerencias y comentarios que me ayuden a seguir mejorando.\
 
@@ -35,17 +33,12 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 
-
-
-
 ### 🗃 &nbsp;Databases
 
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
 
-
-
-### 🧰 &nbsp;Version Controll & Tools 
+### 🧰 &nbsp;Version Control & Tools 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -56,35 +49,31 @@
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/crstymfz">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=crstymfz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crstymfz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&v=2"/>
   </a>
   <a href="https://github.com/crstymfz">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=crstymfz&layout=compact&langs_count=8&theme=algolia&cache_seconds=1800"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crstymfz&layout=compact&langs_count=8&theme=algolia&cache_seconds=1800&v=2"/>
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=crstymfz&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=crstymfz&theme=dark&hide_border=true&v=2"/>
 </p>
-
-
-
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:crstyfloresz@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/></a>
-<a href="https://www.instagram.com/crstymfz/"><img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/></a>
-<a href=https://www.facebook.com/crstymfz/?locale=es_LA><img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white/></a>
+<a href="mailto:crstyfloresz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/crstymfz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/crstymfz/?locale=es_LA"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
 ## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/crstymfz/crstymfz/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
 </p>
