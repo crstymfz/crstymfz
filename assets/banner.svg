@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-labelledby="t d">
+  <title id="t">Cristy Flores</title>
+  <desc id="d">Systems Engineering student focused on software development and data analysis</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0F3B59"/>
+      <stop offset="1" stop-color="#0A2A40"/>
+    </linearGradient>
+    <linearGradient id="pulse" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#DBA12C" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#DBA12C" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#DBA12C"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#7D929E" stroke-opacity="0.10" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="14" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="14" fill="url(#grid)"/>
+
+  <text x="72" y="140" font-family="Georgia, 'Times New Roman', serif" font-size="60" fill="#F4F0EA" letter-spacing="0.5">Cristy Flores</text>
+  <rect x="72" y="166" width="64" height="3" fill="#DBA12C"/>
+  <text x="72" y="206" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#DBD4CC" letter-spacing="2.5">SYSTEMS ENGINEERING  ·  SOFTWARE DEVELOPMENT  ·  DATA ANALYSIS</text>
+  <text x="72" y="262" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#7D929E" letter-spacing="1.5">Managua, Nicaragua</text>
+
+  <path d="M480 262 H820 L838 262 L852 232 L870 290 L892 190 L916 284 L934 262 H1128" fill="none" stroke="url(#pulse)" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="1128" cy="262" r="5" fill="#DBA12C"/>
+</svg>
