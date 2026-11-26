@@ -39,4 +39,4 @@ Data analysis and business intelligence, software testing and validation, and We
 
 ## Contact
 
-[crstyfloresz@gmail.com](mailto:crstyfloresz@gmail.com) · [Instagram](https://www.instagram.com/crstymfz/) · [Facebook](https://www.facebook.com/crstymfz/)
+[fcristymaria@gmail.com](mailto:fcristymaria@gmail.com) · [Instagram](https://www.instagram.com/crstymfz/) · [Facebook](https://www.facebook.com/crstymfz/)
