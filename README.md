@@ -65,11 +65,9 @@ I enjoy building practical solutions, exploring new technologies, and learning h
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=crstymfz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F5C518&text_color=E6EDF3&icon_color=F5C518&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=crstymfz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F5C518&text_color=E6EDF3&icon_color=F5C518&include_all_commits=true&cache_seconds=21600&v=2" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crstymfz&layout=compact&hide_border=true&bg_color=0D1117&title_color=F5C518&text_color=E6EDF3&langs_count=8" />
-
-<img src="https://streak-stats.demolab.com?user=crstymfz&hide_border=true&background=0D1117&ring=F5C518&fire=F5C518&currStreakLabel=F5C518&sideLabels=E6EDF3&dates=8B949E" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crstymfz&layout=compact&hide_border=true&bg_color=0D1117&title_color=F5C518&text_color=E6EDF3&langs_count=8&cache_seconds=21600&v=2" />
 
 </div>
 
