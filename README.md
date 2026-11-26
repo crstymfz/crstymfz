@@ -15,6 +15,8 @@ I enjoy building practical solutions, exploring new technologies, and learning h
 - Learning about emerging technologies and Web3.
 - Focused on continuous learning and professional growth.
 
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
+
 ## TECHNOLOGIES & TOOLS
 
 **Programming Languages**
@@ -47,6 +49,8 @@ I enjoy building practical solutions, exploring new technologies, and learning h
 ![Android Studio](https://img.shields.io/badge/Android_Studio-0D1117?style=flat-square&logo=androidstudio&logoColor=F5C518)
 ![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F5C518)
 
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
+
 ## PROJECT EXPERIENCE
 
 | Project | What it does | Built with |
@@ -54,6 +58,8 @@ I enjoy building practical solutions, exploring new technologies, and learning h
 | **SISClinic** | Internal system for managing patients and tracking physiotherapy treatments, with separate roles for administrators and physiotherapists. | PHP, MySQL, Bootstrap 5 |
 | **FisioGenu** | Expert system for rehabilitation that uses natural language processing. | Python, Flask, SQLite, NLP |
 | **HuellaMaps** | Mobile app for finding pet-friendly places on a map. | Google Maps |
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
 ## GITHUB STATISTICS
 
@@ -66,6 +72,8 @@ I enjoy building practical solutions, exploring new technologies, and learning h
 <img src="https://streak-stats.demolab.com?user=crstymfz&hide_border=true&background=0D1117&ring=F5C518&fire=F5C518&currStreakLabel=F5C518&sideLabels=E6EDF3&dates=8B949E" />
 
 </div>
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
 ## CONNECT WITH ME
 
